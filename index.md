@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/chidcha/web_nongtool/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNTA4MTBlMDktZjU5Yy00NTFjLWI4MzgtYjQzNmMwZTJhMzJhIiwidCI6IjhlNjM0ZTY3LTlkNjYtNDZkMi1hNTI5LWUxYjcwOGM1ZDhiYyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
